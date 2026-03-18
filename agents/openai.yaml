@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Development Orchestrator"
+  short_description: "Game pre-production strategy, design breakdown, and cross-team alignment"
+  default_prompt: "Use $game-development-orchestrator for genre-aware game strategy, numerical balance, level/art/audio/UI planning, and production alignment. Outputs design docs and specs by default; can produce engine code when requested."
